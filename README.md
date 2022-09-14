@@ -1,5 +1,8 @@
 # My Resume
 
+![Resume photo](./Amit_Barman_Resume-photo.jpg)
+
+
 [click here](https://abhisandhi.netlify.app/Amit_Barman_Resume.pdf) 
 
 This Resume is created using Latex.<br>
