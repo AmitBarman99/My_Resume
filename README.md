@@ -20,4 +20,4 @@ if(isAwesome){
 > Author : Amit Barman
 
 [My website](https://abhisandhi.netlify.app/)
-[My linkdin](https://www.linkedin.com/in/AmitBarman99)
+[My linkdin](https://www.linkedin.com/in/amitbarman99)
