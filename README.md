@@ -1,6 +1,6 @@
 # My Resume
 
-![Resume photo](./Amit_Barman_Resume-photo.jpg)
+![Resume photo](./Amit_Barman_Resume.jpg)
 
 
 [click here](https://abhisandhi.netlify.app/Amit_Barman_Resume.pdf) 
