@@ -229,7 +229,7 @@
 
 % Render author's personal website (optional)
 % Usage: \personalLink{<website-without-http://www.>}
-\newcommand*{\personalLink}[1]{\sociallink{\linkSymbol}{http://www.#1}{#1}}
+\newcommand*{\personalLink}[1]{\sociallink{\linkSymbol}{https://#1}{#1}}
 
 
 % Render author's viadeo(optional)
@@ -250,7 +250,7 @@
 
 % Render author's mobile phone (optional)
 % Usage: \smartphone{<mobile phone number>}
-\newcommand*\smartphone[1]{\socialtext{\mobileSymbol}{#1}}    
+\newcommand*\smartphone[1]{\sociallink{\mobileSymbol}{tel:#1}{#1}}    
 
 % Render author's tagline
 \newcommand\resumetitle[1]{
@@ -306,7 +306,7 @@
         \idphoto
       \end{minipage}
     }{}
-    \bigskip
+    %\bigskip
   }
 }
 
